@@ -26,3 +26,9 @@ In this work, we introduce **C**hain of **S**tep reasoning for vision-language m
  
 
 We are going to release the above components in the coming two weeks!
+
+## License
+
+[Apache License 2.0](LICENSE)
+
+
