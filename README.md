@@ -7,7 +7,7 @@
 <sup>1</sup>[CASIA](http://english.ia.cas.cn/), <sup>2</sup>[UCAS](https://english.ucas.ac.cn/), <sup>3</sup>[BAAI](https://www.baai.ac.cn/english.html)<br><sup>#</sup> Equal Contribution <br>
 
 <p align="center">
-  <img src="assets/framework.png" width="500">
+  <img src="assets/framework.png" width="399">
 </p>
 
 </div>
