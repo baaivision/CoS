@@ -25,17 +25,6 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 
 We are going to release the above components in the coming two weeks!
 
-## ShareGPT-Step-300K
-
-
-***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset.
-
-|                              | Description                      | Links                                                        |
-| ---------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                    | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/resolve/main/ShareGPT-Step-300K.jsonl?download=true) |
-| **images.zip**               | image files                      | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset) |
-| **raw_jsonl.zip**            | raw jsonl file for customization | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/resolve/main/raw_jsonl.zip?download=true) |
-
 ## License
 
 [Apache License 2.0](LICENSE)
