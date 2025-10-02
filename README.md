@@ -18,17 +18,37 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 
 ## ToDo List 
 
-- [ ] Training & Inference code
-- [ ] SFT Dataset
+- [x] SFT Dataset
 - [ ] PRM & Dataset
+- [ ] Training & Inference code
 - [ ] Checkpoints
 
- 
-
 We are going to release the above components in the coming two weeks!
+
+### ShareGPT-Step-300K
+
+***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset.
+
+|                              | Description                      | Links                                                        |
+| ---------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                    | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/resolve/main/ShareGPT-Step-300K.jsonl?download=true) |
+| **images.zip**               | image files                      | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset) |
+| **raw_jsonl.zip**            | raw jsonl file for customization | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/resolve/main/raw_jsonl.zip?download=true) |
 
 ## License
 
 [Apache License 2.0](LICENSE)
+
+## Citation
+
+```
+@article{chen2025unveiling,
+  title={Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards},
+  author={Chen, Honghao and Lou, Xingzhou and Feng, Xiaokun and Huang, Kaiqi and Wang, Xinlong},
+  journal={arXiv preprint arXiv:2509.19003},
+  year={2025}
+}
+```
+
 
 
