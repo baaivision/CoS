@@ -25,7 +25,8 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 
 We are going to release the above components in the coming two weeks!
 
-### ShareGPT-Step-300K
+## ShareGPT-Step-300K
+
 
 ***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset.
 
