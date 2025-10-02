@@ -5,7 +5,7 @@
 [Honghao Chen](https://scholar.google.com.hk/citations?user=j_yFqlsAAAAJ&hl=zh-CN)<sup>1,2,3#</sup>, [Xingzhou Lou](https://scholar.google.com.hk/citations?hl=zh-CN&user=vqrGnsQAAAAJ)<sup>1,2#</sup>, [Xiaokun Feng](https://scholar.google.com.hk/citations?hl=zh-CN&user=NqXtIPIAAAAJ)<sup>1,2#</sup>, [Kaiqi Huang](https://scholar.google.com.hk/citations?hl=zh-CN&user=caQ-OmYAAAAJ)<sup>1,2</sup>, [Xinlong Wang](https://scholar.google.com/citations?hl=zh-CN&user=DPz0DjYAAAAJ&view_op=list_works&sortby=pubdate/)<sup>3</sup>
 
 <sup>1</sup>[CASIA](http://english.ia.cas.cn/), <sup>2</sup>[UCAS](https://english.ucas.ac.cn/), <sup>3</sup>[BAAI](https://www.baai.ac.cn/english.html)<br><sup>#</sup> Equal Contribution <br>
-
+[[`Paper`](https://arxiv.org/pdf/2509.19003v1)] 
 <p align="center">
   <img src="assets/framework.png" width="299">
 </p>
