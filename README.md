@@ -31,9 +31,9 @@ We are going to release the above components in the coming two weeks!
 
 |                              | Description                           | Links                                                        |
 | ---------------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                         | [🤗 HF link]([ShareGPT-Step-300K.jsonl · Lauch1ng/CoS-Dataset at main](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/ShareGPT-Step-300K.jsonl)) |
+| **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                         | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/ShareGPT-Step-300K.jsonl)) |
 | **images.zip**               | image files                           | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/images.zip) |
-| **raw_jsonl.zip**            | raw step jsonl file for customization | [🤗 HF link]([raw_jsonl.zip · Lauch1ng/CoS-Dataset at main](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/raw_jsonl.zip)) |
+| **raw_jsonl.zip**            | raw step jsonl file for customization | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/raw_jsonl.zip)) |
 
 
 ## License
