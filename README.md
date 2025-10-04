@@ -18,12 +18,23 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 
 ## ToDo List 
 
-- [ ] SFT Dataset
+- [x] SFT Dataset
 - [ ] PRM & Dataset
 - [ ] Training & Inference code
 - [ ] Checkpoints
 
 We are going to release the above components in the coming two weeks!
+
+### ShareGPT-Step-300K
+
+***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset.
+
+|                              | Description                           | Links                                                        |
+| ---------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                         | [🤗 HF link]([ShareGPT-Step-300K.jsonl · Lauch1ng/CoS-Dataset at main](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/ShareGPT-Step-300K.jsonl)) |
+| **images.zip**               | image files                           | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/images.zip) |
+| **raw_jsonl.zip**            | raw step jsonl file for customization | [🤗 HF link]([raw_jsonl.zip · Lauch1ng/CoS-Dataset at main](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/raw_jsonl.zip)) |
+
 
 ## License
 
