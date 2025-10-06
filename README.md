@@ -27,13 +27,33 @@ We are going to release the above components in the coming two weeks!
 
 ## ShareGPT-Step-300K
 
-***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset.
+***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset. For customization, you can modify get_sft_json.py to get your SFT data accordingly.
 
 |                              | Description                           | Links                                                        |
 | ---------------------------- | ------------------------------------- | ------------------------------------------------------------ |
 | **ShareGPT-Step-300K.jsonl** | The SFT Jsonl                         | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/ShareGPT-Step-300K.jsonl) |
 | **images.zip**               | image files                           | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/images.zip) |
 | **raw_jsonl.zip**            | raw step jsonl file for customization | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/raw_jsonl.zip) |
+
+
+## PRM & Data
+
+***Note***: You can directly use our train jsonl file to train the PRM (special tokens have been added with a fixed format) through the following link, or you can assess the raw data to customize your dataset. For customization, you can modify get_prm_json.py to get your data accordingly.
+
+|                              | Description                           | Links                                                        |
+| ---------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| **CoS-PRM**                  | The PRM model                         | [🤗 HF link](https://huggingface.co/Lauch1ng/CoS-PRM/tree/main) |
+| **prm_data_raw.json**        | raw prm data                          | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/prm_data_raw.json) |
+| **prm_data_train.jsonl**     | prm training jsonl                    | [🤗 HF link](https://huggingface.co/datasets/Lauch1ng/CoS-Dataset/blob/main/prm_data_train.jsonl) |
+
+
+## Checkpoints
+
+|                              | Description                           | Links                                                        |
+| ---------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| **CoS-SFT**                  | The SFT model                         | [🤗 HF link](https://huggingface.co/Lauch1ng/CoS-SFT) |
+| **CoS**                      | The RL model                          | [🤗 HF link](https://huggingface.co/Lauch1ng/CoS) |
+
 
 
 ## License
