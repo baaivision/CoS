@@ -19,9 +19,9 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 ## ToDo List 
 
 - [x] SFT Dataset
-- [ ] PRM & Dataset
+- [x] PRM & Dataset
 - [ ] Training & Inference code
-- [ ] Checkpoints
+- [x] Checkpoints
 
 We are going to release the above components in the coming two weeks!
 
