@@ -1,0 +1,17 @@
+{
+    "o1-dpo-v3": {
+      "root": "/image_root",
+      "annotation": "/dpo_data/v3_internvl_an8st2.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 19151
+    },
+    "o1-dpo-v3-2": {
+      "root": "/image_root",
+      "annotation": "/dpo_data/v3_internvl_an8st2_2.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 8789
+    }
+}
+  

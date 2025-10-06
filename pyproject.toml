@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cos"
+version = "2.0.0"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "sentencepiece==0.1.99", "shortuuid",
+    "accelerate", "peft>=0.4.0", "bitsandbytes==0.41.0",
+    "pydantic", "markdown2[all]", "numpy", "scikit-learn>=1.2.2",
+    "gradio==3.35.2", "gradio_client==0.2.9",
+    "requests", "httpx==0.24.0", "uvicorn", "fastapi",
+    "einops", "einops-exts",
+]
+
+[tool.setuptools.packages.find]
+exclude = ["data*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "shell*"]
+
+[tool.wheel]
+exclude = ["data*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "shell*"]

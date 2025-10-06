@@ -1,0 +1,10 @@
+{
+    "o1-prm-100K": {
+      "root": "/sft_data/image_root",
+      "annotation": "/prm_data/prm_data_train.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 96792
+    }
+}
+  

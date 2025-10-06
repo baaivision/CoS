@@ -1,0 +1,9 @@
+{
+  "o1-sft-330K": {
+    "root": "/sft_data/image_root",
+    "annotation": "/sft_data/ShareGPT-Step-300K.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 296543
+  }
+}
