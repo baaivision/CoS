@@ -20,7 +20,7 @@ In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-langua
 
 - [x] SFT Dataset
 - [x] PRM & Dataset
-- [ ] Training & Inference code
+- [x] Training & Inference code
 - [x] Checkpoints
 
 We are going to release the above components in the coming two weeks!
@@ -71,5 +71,9 @@ We are going to release the above components in the coming two weeks!
 }
 ```
 
+
+## Acknowledgement
+
+We thank the repositories for their excellent work: [InternVL](https://github.com/OpenGVLab/InternVL), [LLaVa-NeXt](https://github.com/haotian-liu/LLaVA), [TAP](https://github.com/baaivision/tokenize-anything)
 
 
