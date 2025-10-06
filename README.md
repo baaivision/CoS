@@ -15,16 +15,6 @@
 In this work, we introduce **C**hain **o**f **S**tep reasoning for vision-language models, enabling assessing reasoning step quality accurately and leading to effective reinforcement learning and inference-time scaling with fine-grained rewards. Experimental results across multiple benchmarks demonstrate the effectiveness of CoS. More importantly, we conduct extensive empirical analysis and ablations to unveil CoS’s appealing properties. We hope this paper offers insights into more complex multi-modal reasoning.
 
 
-
-## ToDo List 
-
-- [x] SFT Dataset
-- [x] PRM & Dataset
-- [x] Training & Inference code
-- [x] Checkpoints
-
-We are going to release the above components in the coming two weeks!
-
 ## ShareGPT-Step-300K
 
 ***Note***: You can directly use our SFT dataset (special tokens have been added) through the following link, or you can assess the raw step data to customize your SFT dataset. For customization, you can modify get_sft_json.py to get your SFT data accordingly.
@@ -54,6 +44,13 @@ We are going to release the above components in the coming two weeks!
 | **CoS-SFT**                  | The SFT model                         | [🤗 HF link](https://huggingface.co/Lauch1ng/CoS-SFT) |
 | **CoS**                      | The RL model                          | [🤗 HF link](https://huggingface.co/Lauch1ng/CoS) |
 
+
+## ToDo List 
+
+- [x] SFT Dataset
+- [x] PRM & Dataset
+- [x] Training & Inference code
+- [x] Checkpoints
 
 
 ## License
